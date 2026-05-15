@@ -8,8 +8,7 @@ O sistema simula um chatbot de atendimento para uma agência de turismo, realiza
 
 ## 📸 Interface do Projeto
 
-<img width="1536" height="1024" alt="1000312900" src="https://github.com/user-attachments/assets/b5427465-2869-4303-83a4-b0598eb0a42d" />
-
+<img width="1536" height="1014" alt="1000312901" src="https://github.com/user-attachments/assets/6a35019b-8675-4ce6-867f-42b598368453" />
 ---
 
 ## 🚀 Funcionalidades
@@ -104,5 +103,6 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 ## 👩‍💻 Autora
 
 Desenvolvido por **Liane Heidemann** para fins acadêmicos.
+
 
 
