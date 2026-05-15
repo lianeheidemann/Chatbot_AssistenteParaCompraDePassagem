@@ -101,17 +101,8 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-## 📌 Melhorias Futuras
-
-- Implementação de fuzzy matching
-- Melhor reconhecimento de respostas
-- Integração com banco de dados
-- Ampliação das opções de viagem
-- Sistema mais inteligente de conversação
-- Melhor responsividade para dispositivos móveis
-
----
-
 ## 👩‍💻 Autora
 
 Desenvolvido por **Liane Heidemann** para fins acadêmicos.
+
+
